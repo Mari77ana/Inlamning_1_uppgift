@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        // Tomas
 // Mariana
         val buttonNavigate : Button = findViewById(R.id.btn_navigateToAbout)
         buttonNavigate.setOnClickListener {
