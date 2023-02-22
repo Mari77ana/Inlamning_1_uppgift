@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Blogg site</string>
+    <string name="welcome">WELCOME TO BLOG SITE</string>
+    <string name="nextButton">NEXT</string>
+    <string name="headerText2">Happy Blogging</string>
+    <string name="infoText">This is a blog site were you can create your blog.
+    By clicking the button below you will come to the next page there you can log in
+    and start blogging</string>
+    <string name="button2">Button</string>
+    <string name="username">username</string>
+    <string name="logIn">LOG IN</string>
+    <string name="userPassword">password</string>
+    <string name="icon">This is only a icon picture</string>
+    <string name="welcomePicture">This is a Welcome picture</string>
+    <string name="user">Hello</string>
+    <string name="usernameText">TextView</string>
+    <string name="profil_icon">This is a profil icon</string>
+    <string name="headerTextProfil">MY PROFILE</string>
+    <string name="myUsername">username</string>
+    <string name="imageBackground">This is a image background</string>
+    <string name="bloggpost"> Your blogg post: 3</string>
+
+
+</resources>
