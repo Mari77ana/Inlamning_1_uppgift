@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
+// Mariana
         val buttonNavigate : Button = findViewById(R.id.btn_navigateToAbout)
         buttonNavigate.setOnClickListener {
             val intentNavigate = Intent(this,AboutActivity::class.java)
